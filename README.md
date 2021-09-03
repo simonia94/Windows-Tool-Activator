@@ -2,5 +2,5 @@ Programme codé en batch pour activer gratuitement Windows.
 
 Il permet aussi d'utiliser une clé d'activation personnalisée si vous en avez acheté une, ou encore de désactiver Windows.
 
-<br/>Official Website: <a href=officialsimonia94.wordpress.com/>officialsimonia94.wordpress.com</a>
+<br/>Official Website: <a href=https://officialsimonia94.wordpress.com/>officialsimonia94.wordpress.com</a>
 
