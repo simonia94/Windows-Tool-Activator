@@ -44,7 +44,7 @@ echo x) Sortir
 echo.
 
 set choice=
-set /p choice=Entrez votre choix :
+set /p choice="Entrez votre choix: "
 if not '%choice%'=='' set choice=%choice:~0,1%
 if '%choice%'=='1' goto Famille
 if '%choice%'=='2' goto Professionel
@@ -75,7 +75,7 @@ cls
 echo.
 echo Entrez votre cle d'activation sous le format XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 echo.
-set /p key="Entrez votre choix : ")
+set /p key="Entrez votre choix: ")
 echo.
 echo Activation en cours.... 
 cscript %SYSTEMROOT%\System32\slmgr.vbs /ipk %key% > nul
