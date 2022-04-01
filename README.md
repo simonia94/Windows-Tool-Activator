@@ -19,7 +19,7 @@
 Le script a été écrit en langue Batch pour activer Windows 10/11 gratuitement.<br>
 
 # Fonctions
-- Activer Windows
+- Activer Windows 10/11
 - Activation à l'aide une clé Windows
 - Désinstallation de la licence Windows
 - Vérifier l'état d'activation Windows
