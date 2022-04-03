@@ -16,15 +16,18 @@
   </p>
   
 # Description du script
-Le script a été écrit en langue Batch pour activer Windows 10/11 gratuitement.<br>
+Le script a été écrit en langue Batch pour activer Windows 10/11 et Office gratuitement.<br>
 
 # Fonctions
-- Activer Windows 10/11
+- Activer Windows 10/11 et Office
 - Activation à l'aide une clé Windows
 - Désinstallation de la licence Windows
 - Vérifier l'état d'activation Windows
 
-# Download
+# Office
+- [Office Tool Activator V4.9](https://github.com/simonia94/Windows-Tool-Activator/releases/download/V4.9/Office-Tool-Activator-V4.9.bat)
+
+# Windows
 - [Windows Tool Activator V4.8](https://github.com/simonia94/Windows-Tool-Activator/releases/download/V4.8/Windows-Tool-Activator-V.4.8.bat)
 - [Windows Tool Activator V4.7](https://github.com/simonia94/Windows-Tool-Activator/releases/download/V4.7/Windows-Tool-Activator-V.4.7.bat)
 
