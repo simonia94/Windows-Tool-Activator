@@ -25,7 +25,7 @@ Le script a été écrit en langue Batch pour activer Windows 10/11 et Office gr
 - Vérifier l'état d'activation Windows
 
 # Office
-- [Office Tool Activator V4.9](https://github.com/simonia94/Windows-Tool-Activator/releases/download/V4.9/Office-Tool-Activator-V4.9.bat)
+- [Windows Tool Activator V4.9](https://github.com/simonia94/Windows-Tool-Activator/releases/download/V4.9/Windows-Tool-Activator-V4.9.bat)
 
 # Windows
 - [Windows Tool Activator V4.8](https://github.com/simonia94/Windows-Tool-Activator/releases/download/V4.8/Windows-Tool-Activator-V.4.8.bat)
